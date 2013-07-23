@@ -18,6 +18,11 @@ function nextPrime(current) {
 	return nextPrime;
 }
 
+/*
+	@author:	J.D. Lowe
+	@input:		n/a
+	@output:	n/a
+*/
 function main() {
 	var current = 2;
 	while(confirm("Would you like the next prime number?")) {
