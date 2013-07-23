@@ -14,8 +14,8 @@ function fibo(num) {
 	@output:	n/a
 */
 
-function main() {
-	var count = 8;	//using 8 as an example, it can be user entered;
+function main(count) {
+	//var count = 8;	//using 8 as an example, it can be user entered;
 	var i = 1;
 	while(count >= i) {
 		console.log(fibo(i));
