@@ -12,7 +12,7 @@ Numbers
 
 [**Fibonacci Sequence**](https://github.com/jdllama/Projects/blob/master/fibonacci.js) – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
-**Prime Factorization** – Have the user enter a number and find all Prime Factors (if there are any) and display them.
+[**Prime Factorization**](https://github.com/jdllama/Projects/blob/master/factorial.js) – Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
 [**Next Prime Number**](https://github.com/jdllama/Projects/blob/master/prime.js) – Have the program find prime numbers until the user chooses to stop asking for the next one.
 
