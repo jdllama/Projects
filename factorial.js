@@ -4,7 +4,7 @@
 	@output:	false if the number is not prime, true if it is.
 */
 function isPrime(num) {
-    for (var i = 1; ++i < num;) {
+    for (var i = 1; ++i < Math.floor(num/2);) {
         if (num % i === 0) return false;
     }
     return true;
